@@ -1,0 +1,2 @@
+# building-a-ci-cd-pipeline-for-a-python-web-app-using-github-actions-and-docker-BCP1-A
+Building a CI/CD Pipeline for a Python Web App using GitHub Actions and Docker addresses the critical business need to reduce manual deployment effort while improve code quality &amp; early defect detection. Working within a scale-up company (50-150 employees), Xterns will develop a comprehensive solution that tackles real-world problems through hands-
